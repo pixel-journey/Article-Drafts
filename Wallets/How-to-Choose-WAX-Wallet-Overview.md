@@ -52,7 +52,6 @@ Consider the following factors when selecting a wallet:
 
 ## Important Notes (Mid-2026)
 
-- OneBad wallet is **no longer recommended** and should not be used (it has been discontinued / has ongoing issues).
 - Always download wallets from official sources only.
 - Keep your private keys and seed phrases secure. No legitimate service will ever ask for them.
 
