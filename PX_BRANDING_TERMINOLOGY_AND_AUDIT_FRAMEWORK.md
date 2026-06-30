@@ -1,4 +1,4 @@
-# PX Branding, Terminology & Audit Framework
+# Px Branding, Terminology & Audit Framework
 
 **Pixel Journey Organization • Article-Drafts Repo**
 
@@ -11,20 +11,21 @@
 
 ## 1. Core Branding Rules (Non-Negotiable)
 
-### PX (P X) — The Consistent Brand
-- **Always use "PX"** as the primary, consistent branding for the journey, ecosystem, packages, and portals.
-- Write it as **PX** (with space or as PX Journey / PX portals / PX packages / PX ecosystem, depending on context).
-- **Never** treat "Pix" or "P I X" as a standalone brand or shorthand for the overall project/journey/ecosystem.
-- Examples of correct usage:
-  - "the PX Journey"
-  - "PX portals"
-  - "PX packages"
-  - "our PX ecosystem"
-  - "building on PX"
+### Px — The Consistent Brand
+- **Always use "Px"** as the primary, consistent branding prefix for the journey, ecosystem, packages, and portals.
+- Write it in **PascalCase style** as **Px** + name (e.g. PxJourney, PxLanding, PxLearn, PxStaking, PxSwap, PxMarket, PxWallet, etc.).
+- **Never** use standalone "Pix" or "P I X" as a general brand or shorthand for the overall project/journey/ecosystem.
+- Correct examples:
+  - "the Px Journey"
+  - "Px portals" or "Px packages"
+  - "inside PxStaking"
+  - "using PxSwap"
+  - "PxLearn knowledge base"
+  - "building on Px"
 
-### Pixals (P I X A L) — The PFP Collection Only
-- **Pixals** is reserved **exclusively** for the PFP/NFT collection.
-- It is **not** interchangeable with PX.
+### Pixals — The PFP Collection Only
+- **Pixals** (spelled P I X A L) is reserved **exclusively** for the PFP/NFT collection.
+- It is **not** interchangeable with Px.
 - Correct examples:
   - "claim your Pixal"
   - "Pixal holders"
@@ -33,13 +34,13 @@
 - Incorrect: Using "Pix" or "Pixals" to refer to the overall journey, packages, or portals.
 
 ### Why This Matters
-Inconsistent use of "Pix" vs "PX" creates confusion for new explorers and weakens our professional, pixel-perfect brand. The first ~40 articles (and all future content) must be audited and corrected against these rules.
+Inconsistent use of "Pix" vs "Px" creates confusion for new explorers and weakens our professional, pixel-perfect brand. The first ~40 articles (and all future content) must be audited and corrected against these rules.
 
 ---
 
-## 2. How to Treat PX Portals & Packages in Articles
+## 2. How to Treat Px Portals & Packages in Articles
 
-**Rule:** By the time any article is published, **assume all PX portals and PX packages are fully complete, released, and operational**.
+**Rule:** By the time any article is published, **assume all Px portals and Px packages are fully complete, released, and operational**.
 
 - Do **not** use language such as:
   - "coming soon"
@@ -50,9 +51,9 @@ Inconsistent use of "Pix" vs "PX" creates confusion for new explorers and weaken
   - "will be released"
 - Instead, present them in the present tense as finished products with their full feature sets.
 - Example correct phrasing:
-  - "The PX Staking portal lets you..."
-  - "Inside the PX Swap portal you can..."
-  - "PX Market provides real-time..."
+  - "The PxStaking portal lets you..."
+  - "Inside the PxSwap portal you can..."
+  - "PxMarket provides real-time..."
 - This applies even when referencing future expansions — frame them as part of the already-established roadmap that is actively being executed.
 
 ---
@@ -60,15 +61,15 @@ Inconsistent use of "Pix" vs "PX" creates confusion for new explorers and weaken
 ## 3. Audit Framework for the First ~40 Articles
 
 ### Purpose
-Ensure the earliest articles are factually accurate, brand-consistent (especially PX vs Pixals), and fully aligned with:
+Ensure the earliest articles are factually accurate, brand-consistent (especially Px vs Pixals), and fully aligned with:
 - Current public reality (primarily @PxJourney on X)
 - Official documentation (gitbook-docs)
-- The completed state of each PX portal/package
+- The completed state of each Px portal/package
 
 ### Recommended Audit Process (for each early article)
 1. **Read the full draft** in its Article-Drafts folder.
 2. **Check branding**:
-   - Search for "Pix" (standalone) or inconsistent "P I X" usage → replace with PX where appropriate.
+   - Search for standalone "Pix" or inconsistent "P I X" usage → replace with proper Px naming (PxJourney, PxStaking, etc.).
    - Confirm "Pixals" is only used for the PFP collection.
 3. **Check factual claims** against latest X posts from @PxJourney and gitbook-docs.
 4. **Portal references**:
@@ -77,13 +78,13 @@ Ensure the earliest articles are factually accurate, brand-consistent (especiall
 5. **Alignment with docs & X**:
    - Terminology, tone, and key facts must match across articles ↔ gitbook-docs ↔ X.
 6. **Gaps**:
-   - Note any missing aspects of the PX Journey that this article should cover or link to.
+   - Note any missing aspects of the Px Journey that this article should cover or link to.
 7. **Update** the draft and move to review/publish pipeline.
 
 ### Priority Areas for Early Articles (Common Issues Expected)
-- Overuse or incorrect use of "Pix" branding
+- Overuse or incorrect use of standalone "Pix" branding
 - Outdated descriptions of portal features or chain support
-- Inconsistent naming of specific PX portals (e.g. PX Staking, PX Swap, PX Market, etc.)
+- Inconsistent naming of specific Px portals (e.g. PxStaking, PxSwap, PxMarket, PxLearn, etc.)
 - References to development status that should now read as complete
 - Missing cross-links to other articles or official docs
 
@@ -93,7 +94,7 @@ Ensure the earliest articles are factually accurate, brand-consistent (especiall
 
 ### grok-audits Repo
 This repo primarily contains **internal feedback and refinement notes** being given to our Claude and Gemini development agents. 
-It includes some snapshots and task lists, but it is **not** the definitive or complete source of truth for all PX portals and PX packages.
+It includes some snapshots and task lists, but it is **not** the definitive or complete source of truth for all Px portals and Px packages.
 
 - Use it as **supplementary internal context** only.
 - For public-facing accuracy in articles, always prioritize:
@@ -109,20 +110,20 @@ It includes some snapshots and task lists, but it is **not** the definitive or c
 
 ## 5. Immediate Action Items
 
-- [ ] Audit and update the first ~10–15 articles for PX branding consistency (replace incorrect "Pix" usage).
+- [ ] Audit and update the first ~10–15 articles for proper Px branding consistency (replace incorrect standalone "Pix" usage with PxJourney / PxStaking style naming).
 - [ ] Review the first ~40 articles for any "in progress" language and convert to completed/present tense.
-- [ ] Create a quick-reference cheat sheet (or section in this file) listing the exact current names of all active PX portals.
+- [ ] Create a quick-reference cheat sheet listing the exact current names of all active Px portals (PxLanding, PxLearn, PxStaking, PxSwap, etc.).
 - [ ] Establish a review checklist that every new article must pass before moving out of Article-Drafts.
 
 ---
 
 ## Next Steps
 
-This framework is now live in the repo. We can:
-1. Immediately begin auditing specific early articles using this guide.
-2. Push additional files (e.g. a master list of all PX portals with their complete feature descriptions).
-3. Create article templates that bake in these rules from the start.
+This framework is now live in the repo with the corrected Px branding. We can:
+1. Immediately begin auditing specific early articles using this updated guide.
+2. Push additional files (e.g. a master list of all Px portals with their complete feature descriptions).
+3. Create article templates that bake in these Px branding rules from the start.
 
 Let's make every article pixel-perfect and fully aligned. 
 
-#PixelJourney #PX #ConsistentBranding #AuditFramework
+#PixelJourney #Px #ConsistentBranding #AuditFramework
