@@ -2,7 +2,7 @@
 
 **Pixel Journey Organization**
 
-Repository for drafting, planning, refining, and preparing high-quality articles, social content, and promotional materials for the PxJourney project.
+Repository for drafting, planning, refining, and preparing high-quality articles, social content, and promotional materials for the Pixel Journey project.
 
 Each folder represents one article and contains the full draft plus supporting assets (social posts, fun facts, key points, etc.).
 
@@ -12,7 +12,7 @@ This is the active working space where we:
 - Draft and iterate on articles
 - Audit and refine content to the highest standards
 - Ensure consistent **Px** branding
-- Align articles with official documentation at https://docs.pixeljourney.xyz
+- Align articles with official documentation at [docs.pixeljourney.xyz](https://docs.pixeljourney.xyz)
 - Maintain factual accuracy with the current state of all Px portals and packages
 
 ## Core Principles
@@ -45,9 +45,13 @@ These files guide our work and should be referenced often:
 - "Pixals" = PFP collection only.
 - All portals and features should be presented as complete and operational in published articles.
 
-## Links
+## Links & Standards
 
-- Official Documentation: https://docs.pixeljourney.xyz
-- X: @PxJourney
+- **Website**: [pixeljourney.xyz](https://pixeljourney.xyz)
+- **Official Documentation**: [docs.pixeljourney.xyz](https://docs.pixeljourney.xyz)
+- **Standards Codex**: [pixel-journey-standards](https://github.com/pixel-journey/pixel-journey-standards)
+- **Templates & AI Handbook**: [pixel-journey-templates](https://github.com/pixel-journey/pixel-journey-templates)
+- **Discord**: [discord.gg/WQ59KEBSMp](https://discord.gg/WQ59KEBSMp)
+- **X**: [@PxJourney](https://x.com/PxJourney)
 
 We are building something excellent. Let's keep improving together.
